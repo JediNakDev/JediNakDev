@@ -5,11 +5,10 @@ Pitchayut Ariyachansil
 High School Student
 -------------------
 
-I've been learn coding since 2018, specialize in software development and simulation.
+I've been learning coding since 2018, specializing in software development and simulation.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pitch.jedi@gmail.com](mailto:pitch.jedi@gmail.com)
-* 🚀  I'm currently working on [r34-pix website](http://r34-pix.vercel.app/)
 * ⚡  Opening for internship and software development job
 
 <a href="https://www.github.com/JediNakDev" target="_blank" rel="noreferrer"><img

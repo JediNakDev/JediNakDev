@@ -2,12 +2,12 @@
 Pitchayut Ariyachansil
 ==============================================================================================================================================
 
-High School Student
+SUTD'28 Eng CSD
 -------------------
 
 I've been learning coding since 2018, specializing in software development and simulation.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Singapore
 * ✉️  You can contact me at [pitch.jedi@gmail.com](mailto:pitch.jedi@gmail.com)
 * ⚡  Opening for internship and software development job
 
